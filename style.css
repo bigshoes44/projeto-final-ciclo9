@@ -13,6 +13,7 @@ body {
 header {
     height: 100px;
     width: 100%;
+    margin-right: 40px;
     background-color: #BE89CB;
     position: fixed;
     display: flex;
@@ -23,7 +24,7 @@ header {
 
 #MenuNavegacao {
     display: flex;
-    gap: 40px;
+    gap: 30px;
 
 }
 
