@@ -63,6 +63,7 @@ section {
     background-color: #dbd9d9;
     width: 100%;
     
+    
 }
 
 h1 {
@@ -140,12 +141,13 @@ section ul {
 
 footer {
     background-color: #BE89CB;
-    margin-top: 40px;
-    
+    height: 135px; 
     width: 100%;
+    margin-right: 10px;
     display: flex;
     justify-content: flex-start;
-    gap: 2px;
+    
+  
 
 }
 
@@ -153,8 +155,8 @@ footer {
     color: #FFFFFF;
     font-size: 18px;
     text-decoration: none;
-    margin-bottom: 30px;
-    margin-top: 30px;
+    margin-bottom: 10px;
+    margin-top: 10px;
     
        
 }
@@ -171,7 +173,7 @@ footer {
     align-items: center;
     display: flex;
     justify-content: flex-start;
-    margin-right: 10px;
+    margin-right: 30px;
 
 }
 
